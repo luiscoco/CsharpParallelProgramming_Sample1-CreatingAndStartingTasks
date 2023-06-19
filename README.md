@@ -1,4 +1,4 @@
-# Csharp_ParallelProgramming_Sample1_CreatingAndStartingTasks
+# CsharpParallelProgramming_CreatingAndStartingTasks
 
 0.Include the Threading.Task library:
 
